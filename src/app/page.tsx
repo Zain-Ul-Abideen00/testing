@@ -12,7 +12,7 @@ function Homepage() {
               I am ZAIN
             </summary>
             <div className="mt-3 text-sm leading-6 text-slate-400">
-              <p>I am Developer</p>
+              <p>I am designer</p>
             </div>
           </details>
         </div>
